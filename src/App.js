@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://learn-reactjs-iota-eight.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Update link Deploy Vercel
         </a>
       </header>
     </div>
