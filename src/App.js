@@ -1,23 +1,11 @@
 import logo from './logo.svg';
-import './App.css';
+// import './App.css';
+import TodoFeature from './features/Todo'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Mai Công Chuyên
-        </p>
-        <a
-          className="App-link"
-          href="https://learn-reactjs-iota-eight.vercel.app/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Update link Deploy Vercel
-        </a>
-      </header>
+      <TodoFeature />
     </div>
   );
 }
